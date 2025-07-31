@@ -9,7 +9,7 @@ This repository contains hands-on labs, scripts, and diagrams designed to help y
 This Course was not endorsed by CompTIA in any way.
 
 1. Clone the repo:
-   git clone https://github.com/YOURUSERNAME/cysa-course-labs.git
+   git clone https://github.com/ExamMastery/cysa-course-labs
 2. Open the Labs folder.
 3. Follow the instructions in each lab’s README.
 
