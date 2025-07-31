@@ -21,7 +21,8 @@ What’s Inside
 ✅ Resources – Links to official docs, and documentation in wiki.
 
 ▶️ Watch the Full Course
-[Subscribe to Exam Mastery] for free Courses on your favorite certs 
+[Subscribe to Exam Mastery](https://www.youtube.com/@ITExamMastery) for free Courses on your favorite certs 
+
 👉 YouTube Playlist
 
 ⚠️ Disclaimer
@@ -31,7 +32,7 @@ These labs are for educational purposes only. Do not use these techniques on net
 
 📄 License
 This project is licensed under MIT. See LICENSE file for details.
-See [LINK] for details.
+
 
 💬 Questions? Join the discussion or open an issue.  
 Like this repo? Star it and subscribe on YouTube for more free content!
