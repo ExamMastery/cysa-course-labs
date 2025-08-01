@@ -13,26 +13,45 @@ This Course was not endorsed by CompTIA in any way.
 2. Open the Labs folder.
 3. Follow the instructions in each lab’s README.
 
-What’s Inside
-✅ Free Full YouTube Course with everything you need to know and more
-✅ Labs – Step-by-step exercises for tools.
-✅ Scripts – Bash/Python automation for log analysis and threat detection
-✅ Diagrams – Network and architecture diagrams created with Draw.io
-✅ Resources – Links to official docs, and documentation in wiki.
-
-▶️ Watch the Full Course
+▶️ Watch the Full Course along with doing labs
 [Subscribe to Exam Mastery](https://www.youtube.com/@ITExamMastery) for free Courses on your favorite certs 
 
-👉 YouTube Playlist
+👉 [YouTube Playlist](
+
+This CompTIA CySA+ (CS0-003) course is designed for anyone preparing for the exam and building real-world cybersecurity analyst skills.
+What’s inside:
+
+Hands-On Labs (no boring slides)
+
+Real Security Tools: Wireshark, Nmap, Splunk, OWASP ZAP, and more
+
+Threat Detection & Response
+
+SIEM & Log Analysis
+
+Vulnerability Management
+
+Incident Response
+
+Blue Team Techniques for Real Jobs
+
+What’s Inside
+✅ Free Full YouTube Course with everything you need to know and more
+
+✅ Labs – Step-by-step exercises for tools.
+
+✅ Scripts – Bash/Python automation for log analysis and threat detection
+
+✅ Diagrams – Network and architecture diagrams created with Draw.io
+
+✅ Resources – Links to official docs, and documentation in wiki.
+
 
 ⚠️ Disclaimer
 These labs are for educational purposes only. Do not use these techniques on networks you do not own.
 
-
-
 📄 License
 This project is licensed under MIT. See LICENSE file for details.
-
 
 💬 Questions? Join the discussion or open an issue.  
 Like this repo? Star it and subscribe on YouTube for more free content!
