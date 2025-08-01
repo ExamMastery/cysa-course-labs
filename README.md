@@ -13,7 +13,7 @@ This Course was not endorsed by CompTIA in any way.
 2. Open the Labs folder.
 3. Follow the instructions in each lab’s README.
 
-▶️ Watch the Full Course along with doing labs
+▶️ Watch the Full Course along with doing labs.
 [Subscribe to Exam Mastery](https://www.youtube.com/@ITExamMastery) for free Courses on your favorite certs 
 
 This CompTIA CySA+ (CS0-003) course is designed for anyone preparing for the exam and building real-world cybersecurity analyst skills.
