@@ -11,6 +11,9 @@ This repository contains Full Youtube Videos Course, hands-on labs, scripts, and
 2. Open the Labs folder.
 3. Follow the instructions in each lab’s README.
 
+For documetation and more info on labs:
+[Check out the wiki](https://github.com/ExamMastery/cysa-course-labs/wiki)
+
 Watch the Full Course along with doing labs.
 [Subscribe to Exam Mastery](https://www.youtube.com/@ITExamMastery) for free Courses on your favorite certs 
 
