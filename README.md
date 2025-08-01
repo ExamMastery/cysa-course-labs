@@ -5,7 +5,7 @@ Practical Hands-On Labs for CompTIA CySA+ (Cybersecurity Analyst) Exam Preparati
 
 
 📌 About This Repository
-This repository contains hands-on labs, scripts, and diagrams designed to help you master concepts for the CompTIA CySA+ certification. The focus is on real-world defensive security tools and techniques.
+This repository contains Full Youtube Videos Course, hands-on labs, scripts, and diagrams designed to help you master concepts for the CompTIA CySA+ certification. The focus is on real-world defensive security tools and techniques.
 This Course was not endorsed by CompTIA in any way.
 
 1. Clone the repo:
@@ -19,23 +19,22 @@ This Course was not endorsed by CompTIA in any way.
 👉 [YouTube Playlist](
 
 This CompTIA CySA+ (CS0-003) course is designed for anyone preparing for the exam and building real-world cybersecurity analyst skills.
-What’s inside:
+What’s Inside:
 
-Hands-On Labs (no boring slides)
+✅Hands-On Labs (no boring slides maybe some slides but not many)
 
-Real Security Tools: Wireshark, Nmap, Splunk, OWASP ZAP, and more
+✅Real Security Tools: Wireshark, Nmap, Splunk, OWASP ZAP, and more
 
-Threat Detection & Response
+✅Threat Detection & Response
 
-SIEM & Log Analysis
+✅SIEM & Log Analysis
 
-Vulnerability Management
+✅Vulnerability Management
 
-Incident Response
+✅Incident Response
 
-Blue Team Techniques for Real Jobs
+✅Blue Team Techniques for Real Jobs
 
-What’s Inside
 ✅ Free Full YouTube Course with everything you need to know and more
 
 ✅ Labs – Step-by-step exercises for tools.
