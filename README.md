@@ -3,7 +3,6 @@
 CYSA+ Course Labs
 Practical Hands-On Labs for CompTIA CySA+ (Cybersecurity Analyst) Exam Preparation
 
-
 About This Repository
 This repository contains Full Youtube Videos Course, hands-on labs, scripts, and diagrams designed to help you master concepts for the CompTIA CySA+ certification. The focus is on real-world defensive security tools and techniques.
 
@@ -14,6 +13,8 @@ This repository contains Full Youtube Videos Course, hands-on labs, scripts, and
 
 Watch the Full Course along with doing labs.
 [Subscribe to Exam Mastery](https://www.youtube.com/@ITExamMastery) for free Courses on your favorite certs 
+
+This course and its materials are not affiliated with, authorized by, endorsed by, or sponsored by CompTIA. All trademarks and certifications belong to their respective owners.
 
 This CompTIA CySA+ (CS0-003) course is designed for anyone preparing for the exam and building real-world cybersecurity analyst skills.
 What’s Inside:
