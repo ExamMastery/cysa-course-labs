@@ -6,7 +6,6 @@ Practical Hands-On Labs for CompTIA CySA+ (Cybersecurity Analyst) Exam Preparati
 
 About This Repository
 This repository contains Full Youtube Videos Course, hands-on labs, scripts, and diagrams designed to help you master concepts for the CompTIA CySA+ certification. The focus is on real-world defensive security tools and techniques.
-This Course was not endorsed by CompTIA in any way.
 
 1. Clone the repo:
    git clone https://github.com/ExamMastery/cysa-course-labs
